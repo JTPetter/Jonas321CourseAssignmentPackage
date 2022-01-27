@@ -1,3 +1,4 @@
+#' @export
 cheat <- function(assign_no){
   assign_no <- paste("Q", assign_no, sep = "")
   all_answers <- list("Q1" = "some_data <- rnorm(n = 100) \n boxplot(some_data)",

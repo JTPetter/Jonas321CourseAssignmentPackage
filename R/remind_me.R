@@ -1,3 +1,4 @@
+#' @export
 remind_me <- function(){
   book_list <- "Here are the last 5 books from your reading list: \n
          1. 'Cruel Optimism' by Lauren Berlant \n
